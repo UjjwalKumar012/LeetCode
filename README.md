@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
