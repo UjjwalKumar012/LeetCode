@@ -23,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/UjjwalKumar012/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
