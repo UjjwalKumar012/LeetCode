@@ -16,10 +16,11 @@ class Solution {
             count++;
             temp = temp.next;
         }
+        temp = head;
        int middle = count/2;
         for(int i = 0; i<middle; i++){
-            head = head.next;
+            temp = temp.next;
         }
-        return head;
+        return temp;
     }
 }
