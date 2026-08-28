@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UjjwalKumar012/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
@@ -18,6 +19,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -168,6 +170,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UjjwalKumar012/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
