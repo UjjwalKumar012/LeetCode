@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0217-contains-duplicate) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/UjjwalKumar012/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UjjwalKumar012/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UjjwalKumar012/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -41,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
@@ -127,4 +130,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/UjjwalKumar012/LeetCode/tree/master/0146-lru-cache) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
