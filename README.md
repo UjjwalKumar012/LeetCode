@@ -139,16 +139,19 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/UjjwalKumar012/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
