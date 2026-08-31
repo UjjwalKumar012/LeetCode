@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0050-powx-n](https://github.com/UjjwalKumar012/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/UjjwalKumar012/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
