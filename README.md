@@ -140,6 +140,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/UjjwalKumar012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/UjjwalKumar012/LeetCode/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/UjjwalKumar012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/UjjwalKumar012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
