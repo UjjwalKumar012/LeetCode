@@ -209,17 +209,20 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/UjjwalKumar012/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UjjwalKumar012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
