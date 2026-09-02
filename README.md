@@ -18,6 +18,7 @@
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0641-design-circular-deque](https://github.com/UjjwalKumar012/LeetCode/tree/master/0641-design-circular-deque) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UjjwalKumar012/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -126,6 +127,7 @@
 | [0206-reverse-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0641-design-circular-deque](https://github.com/UjjwalKumar012/LeetCode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -179,6 +181,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/UjjwalKumar012/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/UjjwalKumar012/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0641-design-circular-deque](https://github.com/UjjwalKumar012/LeetCode/tree/master/0641-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UjjwalKumar012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/UjjwalKumar012/LeetCode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
