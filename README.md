@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/UjjwalKumar012/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/UjjwalKumar012/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UjjwalKumar012/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UjjwalKumar012/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/UjjwalKumar012/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/UjjwalKumar012/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
@@ -222,6 +224,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/UjjwalKumar012/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UjjwalKumar012/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
