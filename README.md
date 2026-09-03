@@ -22,6 +22,7 @@
 | [0641-design-circular-deque](https://github.com/UjjwalKumar012/LeetCode/tree/master/0641-design-circular-deque) |
 | [0658-find-k-closest-elements](https://github.com/UjjwalKumar012/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UjjwalKumar012/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/UjjwalKumar012/LeetCode/tree/master/1046-last-stone-weight) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -227,6 +229,7 @@
 | [0048-rotate-image](https://github.com/UjjwalKumar012/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UjjwalKumar012/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
