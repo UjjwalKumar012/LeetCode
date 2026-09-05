@@ -130,6 +130,7 @@
 | [0190-reverse-bits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/UjjwalKumar012/LeetCode/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0476-number-complement) |
 ## Linked List
 |  |
 | ------- |
