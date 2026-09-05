@@ -49,6 +49,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/UjjwalKumar012/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -89,6 +90,7 @@
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
@@ -251,6 +253,7 @@
 | [0022-generate-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/UjjwalKumar012/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/UjjwalKumar012/LeetCode/tree/master/0771-jewels-and-stones) |
