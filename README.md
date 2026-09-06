@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/UjjwalKumar012/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/UjjwalKumar012/LeetCode/tree/master/0049-group-anagrams) |
@@ -58,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/UjjwalKumar012/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -85,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/UjjwalKumar012/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
