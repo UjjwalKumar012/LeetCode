@@ -55,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/UjjwalKumar012/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/UjjwalKumar012/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -261,6 +262,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/UjjwalKumar012/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Queue
@@ -275,6 +277,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjwalKumar012/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/UjjwalKumar012/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/UjjwalKumar012/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
