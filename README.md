@@ -24,6 +24,7 @@
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/UjjwalKumar012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/UjjwalKumar012/LeetCode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/UjjwalKumar012/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/UjjwalKumar012/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -60,6 +61,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/UjjwalKumar012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/UjjwalKumar012/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/UjjwalKumar012/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -295,6 +297,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/UjjwalKumar012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
