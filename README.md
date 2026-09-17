@@ -23,6 +23,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/UjjwalKumar012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/UjjwalKumar012/LeetCode/tree/master/0641-design-circular-deque) |
@@ -62,6 +63,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/UjjwalKumar012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/UjjwalKumar012/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/UjjwalKumar012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Backtracking
