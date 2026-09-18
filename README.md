@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/UjjwalKumar012/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/UjjwalKumar012/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -216,6 +217,7 @@
 | [0022-generate-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/UjjwalKumar012/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/UjjwalKumar012/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
