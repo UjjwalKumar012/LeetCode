@@ -151,6 +151,7 @@
 | ------- |
 | [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/UjjwalKumar012/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/UjjwalKumar012/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/UjjwalKumar012/LeetCode/tree/master/0461-hamming-distance) |
