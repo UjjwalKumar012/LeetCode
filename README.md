@@ -186,12 +186,14 @@
 | [0206-reverse-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UjjwalKumar012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0394-decode-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -285,6 +287,7 @@
 | [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
