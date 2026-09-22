@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/UjjwalKumar012/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/UjjwalKumar012/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/UjjwalKumar012/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/UjjwalKumar012/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/UjjwalKumar012/LeetCode/tree/master/0169-majority-element) |
@@ -150,6 +151,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/UjjwalKumar012/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/UjjwalKumar012/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -322,6 +324,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/UjjwalKumar012/LeetCode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
