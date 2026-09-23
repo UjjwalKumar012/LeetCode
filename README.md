@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/UjjwalKumar012/LeetCode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/UjjwalKumar012/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0525-contiguous-array) |
@@ -114,6 +115,7 @@
 | [0217-contains-duplicate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/UjjwalKumar012/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -329,4 +331,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/UjjwalKumar012/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/UjjwalKumar012/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
