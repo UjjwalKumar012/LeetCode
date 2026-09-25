@@ -40,6 +40,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/UjjwalKumar012/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UjjwalKumar012/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1695-maximum-erasure-value](https://github.com/UjjwalKumar012/LeetCode/tree/master/1695-maximum-erasure-value) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Simulation
@@ -47,6 +48,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -195,6 +197,7 @@
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,6 +311,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/UjjwalKumar012/LeetCode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
