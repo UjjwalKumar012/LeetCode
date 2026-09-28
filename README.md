@@ -68,6 +68,7 @@
 | [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/UjjwalKumar012/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0525-contiguous-array) |
@@ -120,6 +121,7 @@
 | [0217-contains-duplicate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/UjjwalKumar012/LeetCode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/UjjwalKumar012/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/UjjwalKumar012/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/UjjwalKumar012/LeetCode/tree/master/0506-relative-ranks) |
@@ -165,6 +167,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/UjjwalKumar012/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/UjjwalKumar012/LeetCode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/UjjwalKumar012/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/UjjwalKumar012/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0476-number-complement) |
 ## Linked List
@@ -303,6 +306,7 @@
 | [0242-valid-anagram](https://github.com/UjjwalKumar012/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/UjjwalKumar012/LeetCode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
