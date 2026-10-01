@@ -49,6 +49,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/UjjwalKumar012/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/UjjwalKumar012/LeetCode/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -230,6 +231,7 @@
 | [0067-add-binary](https://github.com/UjjwalKumar012/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/UjjwalKumar012/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
