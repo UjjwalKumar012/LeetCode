@@ -233,6 +233,7 @@
 | [0189-rotate-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
