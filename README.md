@@ -201,6 +201,7 @@
 | [0050-powx-n](https://github.com/UjjwalKumar012/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/UjjwalKumar012/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
@@ -232,6 +233,7 @@
 | [0070-climbing-stairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/UjjwalKumar012/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UjjwalKumar012/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
