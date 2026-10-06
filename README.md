@@ -212,6 +212,7 @@
 | [0225-implement-stack-using-queues](https://github.com/UjjwalKumar012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/UjjwalKumar012/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/0394-decode-string) |
+| [0856-score-of-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
@@ -323,6 +324,7 @@
 | [0443-string-compression](https://github.com/UjjwalKumar012/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/UjjwalKumar012/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Binary Indexed Tree
 |  |
 | ------- |
