@@ -38,6 +38,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UjjwalKumar012/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/UjjwalKumar012/LeetCode/tree/master/1046-last-stone-weight) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/UjjwalKumar012/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UjjwalKumar012/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1695-maximum-erasure-value](https://github.com/UjjwalKumar012/LeetCode/tree/master/1695-maximum-erasure-value) |
@@ -240,6 +241,7 @@
 | [0507-perfect-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/UjjwalKumar012/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/UjjwalKumar012/LeetCode/tree/master/2652-sum-multiples) |
