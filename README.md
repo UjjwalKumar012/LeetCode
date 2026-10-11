@@ -176,6 +176,7 @@
 | [0389-find-the-difference](https://github.com/UjjwalKumar012/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/UjjwalKumar012/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [0509-fibonacci-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/UjjwalKumar012/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/UjjwalKumar012/LeetCode/tree/master/2235-add-two-integers) |
