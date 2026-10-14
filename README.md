@@ -251,6 +251,7 @@
 | [1512-number-of-good-pairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/UjjwalKumar012/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/UjjwalKumar012/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/UjjwalKumar012/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3908-valid-digit-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/3908-valid-digit-number) |
@@ -386,4 +387,5 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/UjjwalKumar012/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
