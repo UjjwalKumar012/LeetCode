@@ -83,6 +83,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/UjjwalKumar012/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/UjjwalKumar012/LeetCode/tree/master/1695-maximum-erasure-value) |
+| [3945-digit-frequency-score](https://github.com/UjjwalKumar012/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UjjwalKumar012/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-find-closest-person](https://github.com/UjjwalKumar012/LeetCode/tree/master/3516-find-closest-person) |
 | [3908-valid-digit-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/UjjwalKumar012/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
