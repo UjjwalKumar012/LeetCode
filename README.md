@@ -256,6 +256,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/UjjwalKumar012/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/UjjwalKumar012/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/UjjwalKumar012/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/UjjwalKumar012/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/UjjwalKumar012/LeetCode/tree/master/2652-sum-multiples) |
@@ -398,4 +399,17 @@
 | ------- |
 | [0258-add-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/UjjwalKumar012/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/UjjwalKumar012/LeetCode/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/UjjwalKumar012/LeetCode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/UjjwalKumar012/LeetCode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/UjjwalKumar012/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
