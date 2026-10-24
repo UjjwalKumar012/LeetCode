@@ -44,6 +44,7 @@
 | [1512-number-of-good-pairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1695-maximum-erasure-value](https://github.com/UjjwalKumar012/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UjjwalKumar012/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -180,6 +181,7 @@
 | [0461-hamming-distance](https://github.com/UjjwalKumar012/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [1512-number-of-good-pairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/UjjwalKumar012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/UjjwalKumar012/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/UjjwalKumar012/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/UjjwalKumar012/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -382,6 +385,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/UjjwalKumar012/LeetCode/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -404,6 +408,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/UjjwalKumar012/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -413,4 +418,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/UjjwalKumar012/LeetCode/tree/master/2427-number-of-common-factors) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
