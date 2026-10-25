@@ -267,6 +267,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/UjjwalKumar012/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UjjwalKumar012/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/UjjwalKumar012/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/UjjwalKumar012/LeetCode/tree/master/3516-find-closest-person) |
 | [3908-valid-digit-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/UjjwalKumar012/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -354,6 +355,7 @@
 | [0649-dota2-senate](https://github.com/UjjwalKumar012/LeetCode/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/UjjwalKumar012/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0856-score-of-parentheses) |
+| [3280-convert-date-to-binary](https://github.com/UjjwalKumar012/LeetCode/tree/master/3280-convert-date-to-binary) |
 ## Queue
 |  |
 | ------- |
