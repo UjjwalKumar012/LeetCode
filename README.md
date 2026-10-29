@@ -60,6 +60,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/UjjwalKumar012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3959-check-good-integer](https://github.com/UjjwalKumar012/LeetCode/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -278,6 +279,7 @@
 | [3516-find-closest-person](https://github.com/UjjwalKumar012/LeetCode/tree/master/3516-find-closest-person) |
 | [3908-valid-digit-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/UjjwalKumar012/LeetCode/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/UjjwalKumar012/LeetCode/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
