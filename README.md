@@ -43,6 +43,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UjjwalKumar012/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/1528-shuffle-string) |
 | [1695-maximum-erasure-value](https://github.com/UjjwalKumar012/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -365,6 +366,7 @@
 | [0771-jewels-and-stones](https://github.com/UjjwalKumar012/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/UjjwalKumar012/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/UjjwalKumar012/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/1528-shuffle-string) |
 | [3280-convert-date-to-binary](https://github.com/UjjwalKumar012/LeetCode/tree/master/3280-convert-date-to-binary) |
 ## Queue
 |  |
