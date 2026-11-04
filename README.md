@@ -193,6 +193,7 @@
 | [0389-find-the-difference](https://github.com/UjjwalKumar012/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/UjjwalKumar012/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0476-number-complement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UjjwalKumar012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
@@ -267,6 +268,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/UjjwalKumar012/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/UjjwalKumar012/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UjjwalKumar012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/UjjwalKumar012/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
