@@ -48,6 +48,7 @@
 | [1528-shuffle-string](https://github.com/UjjwalKumar012/LeetCode/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/UjjwalKumar012/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/UjjwalKumar012/LeetCode/tree/master/1695-maximum-erasure-value) |
+| [1720-decode-xored-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1720-decode-xored-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -195,6 +196,7 @@
 | [0476-number-complement](https://github.com/UjjwalKumar012/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/UjjwalKumar012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
