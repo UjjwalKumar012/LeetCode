@@ -56,6 +56,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/UjjwalKumar012/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/UjjwalKumar012/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UjjwalKumar012/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/UjjwalKumar012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/UjjwalKumar012/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3959-check-good-integer](https://github.com/UjjwalKumar012/LeetCode/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
@@ -198,6 +200,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/UjjwalKumar012/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/UjjwalKumar012/LeetCode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Linked List
 |  |
 | ------- |
