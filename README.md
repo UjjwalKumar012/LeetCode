@@ -463,4 +463,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/UjjwalKumar012/LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
