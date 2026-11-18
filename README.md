@@ -469,6 +469,7 @@
 | [0175-combine-two-tables](https://github.com/UjjwalKumar012/LeetCode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/UjjwalKumar012/LeetCode/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/UjjwalKumar012/LeetCode/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/UjjwalKumar012/LeetCode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/UjjwalKumar012/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/UjjwalKumar012/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1587-bank-account-summary-ii](https://github.com/UjjwalKumar012/LeetCode/tree/master/1587-bank-account-summary-ii) |
